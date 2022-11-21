@@ -1,0 +1,15 @@
+body {
+
+
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  height: 100v;
+  background: linear-gradient(to right, #355c7d, #6c5b7b, #c06c84); 
+  color: #000000
+}
+
+
+
+

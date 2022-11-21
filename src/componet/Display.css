@@ -1,0 +1,13 @@
+.display{
+ 
+    grid-column: span 4;
+    background-color: #fff ;
+    display: flex;
+    justify-content: flex-end;
+    align-items:center;
+    padding:20px;
+    font-size: 2.2em;
+    overflow: hidden;
+    text-color: black;
+    
+}
